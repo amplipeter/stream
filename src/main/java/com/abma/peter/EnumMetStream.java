@@ -26,7 +26,7 @@ public class EnumMetStream {
                 .forEach(System.out::println);
         long endTime   = System.nanoTime();
         long totalTime = endTime - startTime;
-        System.out.println("tijd " + totalTime/100000);
+        System.out.println("tijd " + totalTime);
 
 /*		 System.out.println("1 Profile.P030: " + IntProfile.P030);
 		 System.out.println("2 Profile.P030.name: " + Profile.P030.name());
