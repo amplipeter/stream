@@ -22,7 +22,7 @@ public class EnumMetStream {
                 .map(s-> s*10)
 				//.peek(System.out::println)
                 //.filter(s -> s < 1000)
-                .sorted()
+                //.sorted()
                 .forEach(System.out::println);
         long endTime   = System.nanoTime();
         long totalTime = endTime - startTime;
