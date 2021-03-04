@@ -30,7 +30,6 @@ public class EnumMetStream {
 
 /*		 System.out.println("1 Profile.P030: " + IntProfile.P030);
 		 System.out.println("2 Profile.P030.name: " + Profile.P030.name());
-		 System.out.println("3 Profile.P030.profileNummerString: " + Profile.P030.profileNummerString);
 		 System.out.println("4 find stream: " + Profile.findInStream("0000030"));
 		 System.out.println("5 find loop: " + Profile.find("0000077"));*/
         //Profile z = new Profile("P999");
